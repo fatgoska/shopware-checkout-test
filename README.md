@@ -1,7 +1,5 @@
 # Shopware 6 — Guest Checkout Automated Test
 
-**Solution25 QA Practical Exercise — Part 2**
-
 ## What This Tests
 
 An end-to-end automated test of the full guest checkout flow on the Shopware 6 demo storefront:
